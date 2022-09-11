@@ -1,7 +1,0 @@
-Mid Term
-
-1.Function 
-2.limit and continuity 
-3.differentiation 
-4.basic differentiations 
-5.successive differentiation
