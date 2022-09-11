@@ -1,5 +1,4 @@
 # CSE-41
-## First Semister
+## 1ST To 8TH{loading} Semister
 ## [Premier University](https://puc.ac.bd/)
 ### Collector [Assad Kamal](https://www.facebook.com/assad.kamal007)
-### For [ICS (Programming slides) with ANSWERS](https://github.com/Hafiz-Sakib/PUC-ICS-Slides.git)
