@@ -3,4 +3,4 @@
 ## [Premier University](https://puc.ac.bd/)
 ### Collector [Assad Kamal](https://www.facebook.com/assad.kamal007)
 
-### [All Question from past years](https://play.google.com/store/apps/details?id=com.tanzim.pucquestionbot)
+### [All Questions from past years](https://play.google.com/store/apps/details?id=com.tanzim.pucquestionbot) 👈 CLICK HERE
